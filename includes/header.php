@@ -1,10 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE php>
+<php lang="en">
 
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - Craftivo Bootstrap Template</title>
+  <title>Terms - Craftivo Bootstrap Template</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -36,12 +36,12 @@
   ======================================================== -->
 </head>
 
-<body class="index-page">
+<body class="terms-page">
 
-  <header id="header" class="header d-flex align-items-center fixed-top">
+  <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center">
 
-      <a href="index.html" class="logo d-flex align-items-center me-auto">
+      <a href="index.php" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.webp" alt=""> -->
         <h1 class="sitename">Portfolio</h1>
@@ -49,21 +49,16 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Bosh sahifa</a></li>
+          <li><a href="#hero">Bosh sahifa</a></li>
           <li><a href="#about">Men haqimda</a></li>
           <li><a href="#resume">Rezyume</a></li>
           <li><a href="#services">Xizmatlar</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
-             
-              
-           
-         
-          <li><a href="#contact">Bog'lanish</a></li>
-        </ul>
+          
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
 
-      <a class="btn-getstarted" href="#about">Get Started</a>
+      <a class="btn-getstarted" href="#about">Boshladik</a>
 
     </div>
   </header>

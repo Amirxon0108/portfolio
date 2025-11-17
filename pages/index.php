@@ -87,10 +87,12 @@ require '../includes/header.php';
               </div>
 
               <div class="social-connect">
-                <a href="#"><i class="bi bi-linkedin"></i></a>
-                <a href="#"><i class="bi bi-github"></i></a>
-                <a href="#"><i class="bi bi-twitter"></i></a>
-                <a href="#"><i class="bi bi-instagram"></i></a>
+                 <a href="https://t.me/Amirdevv  "><i class="bi bi-telegram  "></i></a>
+             <a href="https://instagram.com/amirkhan_e17"><i class="bi bi-instagram"></i></a>                
+                <a href="https://www.youtube.com/amirdevv "><i class="bi bi-youtube"></i></a> 
+          <a href="https://www.linkedin.com/in/amirxonn-matchanov-bb2234396/" class="linkedin" target="_blank">
+  <i class="bi bi-linkedin"></i>
+</a>
               </div>
             </div>
           </div>
