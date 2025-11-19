@@ -1,6 +1,7 @@
 <?php
+session_start();
 require '../config/db.php';
-
+require '../auth.php';  
 include 'layouts/header.php';
 
 $result = $conn->query("SELECT * FROM portfolio");

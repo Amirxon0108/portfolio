@@ -1,6 +1,6 @@
 
 <?php
-
+session_start();
 require '../config/db.php';
 require '../includes/header.php';
 
@@ -10,7 +10,7 @@ require '../includes/header.php';
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
 
-      <img src="../assets/img/profile/men2.jpg" alt="" data-aos="fade-in">
+      <img src="../assets/img/profile/amir1.jpg" alt="" data-aos="fade-in">
 
       <div class="container" data-aos="fade-up" data-aos-delay="100">
         <div class="row justify-content-center">
@@ -82,7 +82,7 @@ require '../includes/header.php';
               </div>
 
               <div class="profile-actions">
-                <a href="#" class="btn-primary"><i class="bi bi-download"></i> CVni yuklab olish</a>
+                <a href="../files/download.php" download  class="btn-primary"><i class="bi bi-download"></i> CVni yuklab olish</a>
                 <a href="#contact" class="btn-secondary"><i class="bi bi-envelope"></i> Bog'lanish</a>
               </div>
 

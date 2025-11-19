@@ -1,4 +1,6 @@
 <?php
+session_start();
+require '../auth.php';
 require '../config/db.php';
 $id= $_POST['id'];
 
